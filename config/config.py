@@ -24,7 +24,7 @@ API_HASH = getenv("9aa62afacd534cbe5168ad11d6ccb376")
 BOT_TOKEN = getenv("5696724840:AAETQp3wjl3_mgnU7wLtV1CtUqdWBTTbQr4")
 
 # Database to save your chats and stats... Get MongoDB:-  https://telegra.ph/How-To-get-Mongodb-URI-04-06
-MONGO_DB_URI = getenv("https://grumpy-teddy-bee.cyclic.app", None)
+MONGO_DB_URI = getenv("https://jijique.cyclic.app/", None)
 
 # Custom max audio(music) duration for voice chat. set DURATION_LIMIT in variables with your own time(mins), Default to 60 mins.
 DURATION_LIMIT_MIN = int(
